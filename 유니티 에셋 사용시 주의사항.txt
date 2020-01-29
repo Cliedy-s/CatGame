@@ -1,0 +1,13 @@
+>>강좌
+https://unity3d.com/kr/learn/tutorials/s/2d-game-creation
+
+
+
+>>에셋
+https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-platformer-11228
+
+경고가 뜬 c#스크립트 파일의 첫줄에
+using UnityEngine.UI;
+
+GUItext -> Text
+GUITexture -> Image
